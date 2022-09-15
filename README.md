@@ -1,2 +1,2 @@
 # front-end-mentor-challenges
-#### first challeng 'QR-code'
+#### first challeng "QR-code"
